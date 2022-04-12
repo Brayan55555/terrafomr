@@ -34,3 +34,4 @@ override.tf.json
 terraform.rc
 
 .history
+mysql-node/node_modules

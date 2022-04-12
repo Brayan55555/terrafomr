@@ -1,0 +1,6 @@
+version: '3'
+services:
+  api-todo:
+    build: mysql-node/
+    ports:
+      - 3000:3000
